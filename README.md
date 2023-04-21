@@ -1,3 +1,4 @@
+![Screenshot (19)](https://user-images.githubusercontent.com/87832574/233697235-539dcaf4-46c1-481c-be6a-e869dbf9afc7.png)
 This README will provide an overview of the Property Management Software in MERN application.
 
 Features
