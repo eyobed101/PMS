@@ -22,3 +22,11 @@ To install Property Management Software React JS, follow these steps:
 
 Usage
 Once the application is running, you can use it to manage your properties, tenants, and payments.
+
+A property management system (PMS) is a software application that helps property managers to streamline their operations. It can be used to manage a variety of tasks, including:
+
+Property listings: A PMS can be used to create and manage property listings, including photos, descriptions, and rental rates.
+Tenant screening: A PMS can be used to screen potential tenants, including running credit checks and verifying employment history.
+Lease agreements: A PMS can be used to create and manage lease agreements, including tracking payments and generating reminders.
+Maintenance requests: A PMS can be used to track maintenance requests, including assigning tasks to staff and tracking progress.
+Financials: A PMS can be used to track income and expenses, including generating reports and creating budgets.
